@@ -74,30 +74,8 @@ The motivation behind developing this POS system stems from the need to replace 
 ## Summary
 The Point of Sales system provides a simple, efficient, and accurate solution for small retail shops to manage their billing and sales records. It reduces the workload on employees, minimizes errors, and enhances customer satisfaction.
 
-## Images
-1. **Login Functionality**
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/332a0c0d-f3e0-4776-87fb-2cab8e16f146)
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/ef72ef9b-678b-4cc1-9a81-5fd5d3e76056)
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/9903c78c-f6d7-4bee-a6fa-ede4fc132436)
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/1ef8c9bf-41ba-4efa-a1fe-3821dbb8762c)
-
-2. **Invoice Interface**
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/8956d159-d527-44b2-beb6-aac971cf63ac)
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/f9b13d67-0530-4437-a7bd-2275887ac5da)
-   -![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/254f1058-67dd-4a1c-9a32-8ee83e3f5440)
-   - remove button
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/f74ebc6f-bd36-4c28-8de3-9dec1b7cdb5f)
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/06d200ca-70e5-4c45-8396-956675615b2c)
-   - pay button
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/e3a3c684-2de7-42e9-996e-ae14f8c769ee)
-   - save button
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/6b8b6ef7-4d85-4cfc-a57a-c0446f86714b)
-   - no invoice number
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/d5f692b8-9521-47e0-98e3-7e493c0a9604)
-   - no date
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/2d3ecfee-0573-44dc-b770-cfa2759279df)
-   - clear button
-   - ![image](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/92978f40-327f-45ec-b566-46115c384489)
+## GIF
+![POS](https://github.com/sasanthi65/Point-of-Sales-Project/assets/33154236/4238af1c-22b5-495e-8c49-85bdc03d19c4)
  
 ---
 
